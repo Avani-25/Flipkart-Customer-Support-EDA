@@ -112,8 +112,8 @@ The Machine Learning phase includes:
 - Integrate real-time customer support data.
 - Improve model performance with advanced algorithms.
 
-## HTML
-<video src="https://github.com Flipkart project.pptx.mp4" width="100%" controls></video>
+## Project Demo
+https://drive.google.com/file/d/1OmZi7YJDqUOekj2EVPtDGIqiaGaWWSLw/view?usp=drive_link
 
 ---
 
