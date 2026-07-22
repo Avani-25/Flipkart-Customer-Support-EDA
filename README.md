@@ -112,10 +112,10 @@ The Machine Learning phase includes:
 - Integrate real-time customer support data.
 - Improve model performance with advanced algorithms.
 
-## :Video: -Project Demo
+## 🎥 Project Demo
 https://drive.google.com/file/d/1OmZi7YJDqUOekj2EVPtDGIqiaGaWWSLw/view?usp=drive_link
 
-## -Project Report
+## 📄 Project Report
 https://docs.google.com/document/d/1e7qwsijk9GP0jM850TwIMNKjCx0Ugjtwg1QGxj5BbOE/edit?usp=drive_link
 
 ---
