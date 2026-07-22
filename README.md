@@ -115,6 +115,8 @@ The Machine Learning phase includes:
 ## Project Demo
 https://drive.google.com/file/d/1OmZi7YJDqUOekj2EVPtDGIqiaGaWWSLw/view?usp=drive_link
 
+## Project Report
+file:///C:/Users/avani/Downloads/Report%20Flipkart-CustomerSupport%20Analysis_removed.pdf
 ---
 
 ## Link with me
